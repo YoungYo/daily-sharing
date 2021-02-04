@@ -96,3 +96,7 @@ _**参考资料：**_
 3. **《计算机组成与设计：硬件 / 软件接口》3.5.1 节**
 4. [**https://zh.wikipedia.org/wiki/IEEE\_754**](https://zh.wikipedia.org/wiki/IEEE_754)
 
+![&#x5FAE;&#x4FE1;&#x626B;&#x4E00;&#x626B;&#x4E0A;&#x65B9;&#x4E8C;&#x7EF4;&#x7801;&#xFF0C;&#x5173;&#x6CE8;&#x6211;&#x7684;&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x738B;&#x867E;&#x7247;](../../.gitbook/assets/wei-xin-gong-zhong-hao-er-wei-ma-.jpg)
+
+
+
