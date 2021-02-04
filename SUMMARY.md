@@ -13,6 +13,7 @@
 
 * [December](december-1/README.md)
   * [1st](december-1/1st.md)
+  * [2nd](december-1/2nd.md)
 
 ## 2021
 
