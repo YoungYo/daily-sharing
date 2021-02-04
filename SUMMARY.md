@@ -7,6 +7,7 @@
 * [November](2020/november/README.md)
   * [28th](2020/november/28th.md)
   * [29th](2020/november/29th.md)
+  * [30th](2020/november/30th.md)
 
 ## 2021
 
