@@ -1,4 +1,5 @@
 # 4th
+
 查看 Linux 进程时我们一般会使用这个命令：ps aux，ps 命令的作用是输出当前进程的快照，那么它后面的选项 aux 分别起到什么作用呢？
 
 选项 a 是输出所有用户的进程；选项 u 是输出进程所属的用户，以及进程所占用的 CPU、内存、虚拟内存大小等信息；选项 x 是取消对进程终端的限制，即不管这个进程是受终端控制的进程，还是系统后台进程，都将其显示出来。
@@ -9,5 +10,5 @@
 
 另外，附一张 ps aux 命令输出的内容中，各列的含义。
 
-![image-20201204215343783](https://tva1.sinaimg.cn/large/008eGmZEly1gnbbh653qxj31fy0mmq7z.jpg)
+![](https://tva1.sinaimg.cn/large/008eGmZEly1gnbbh653qxj31fy0mmq7z.jpg)
 

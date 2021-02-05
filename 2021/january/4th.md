@@ -1,4 +1,5 @@
 # 4th
+
 命令选项和参数的区别。
 
 Linux 命令后面经常会跟一个或多个选项，这些选项会改变命令的行为，再后面可能会有一个或多个参数，这些参数是命令作用的对象。所以大多数命令看起来都是这样的：
@@ -11,11 +12,11 @@ ls -lt
 
 而下面这个命令中的长选项「--reverse」则是让「ls -lt」的输出结果逆序排列。
 
-ls -lt --reverse 
+ls -lt --reverse
 
 需要注意的是，Linux 命令选项和文件名一样，都是区分大小写的。
 
 **参考资料：**
 
-- 《The Linux Command Line Fifth Internet Edition》第 3 章 - Options and Arguments
+* 《The Linux Command Line Fifth Internet Edition》第 3 章 - Options and Arguments
 
