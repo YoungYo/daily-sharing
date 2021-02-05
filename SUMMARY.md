@@ -54,8 +54,6 @@
   * [27th](2021/january/27th.md)
   * [28th](2021/january/28th.md)
   * [29th](2021/january/29th.md)
-  * [30th](2021/january/30th.md)
 * [February](2021/february/README.md)
-  * [2nd](2021/february/2nd.md)
   * [4th](2021/february/4th.md)
 
