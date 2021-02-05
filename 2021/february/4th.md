@@ -8,7 +8,7 @@ description: 浮点数运算的精度损失
 
 上次留了一个问题，就是为什么在编程语言中用 float 类型的 0.3 + 0.6，结果会是 0.899999…，而不是 0.9。
 
-![](https://tva1.sinaimg.cn/large/008eGmZEly1gnb9rx49myj30pe0hoq62.jpg)
+![](../../.gitbook/assets/tu-pian-1.png)
 
 要想弄明白这个问题，必须先搞清楚两件事：
 
