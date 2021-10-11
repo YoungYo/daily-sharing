@@ -8,7 +8,7 @@ description: 浮点数运算的精度损失
 
 上次留了一个问题，就是为什么在编程语言中用 float 类型的 0.3 + 0.6，结果会是 0.899999…，而不是 0.9。
 
-![](../../.gitbook/assets/tu-pian-1.png)
+![](../../.gitbook/assets/图片1.png)
 
 要想弄明白这个问题，必须先搞清楚两件事：
 
@@ -17,9 +17,9 @@ description: 浮点数运算的精度损失
 
 **十进制小数 → 二进制浮点数**
 
-首先说一下， 十进制小数如何转换成二进制浮点数。十进制小数要想转换成二进制，要把小数部分乘以 2，乘积记做 r，如果 r &gt; 1，则记下 1，令 $$r = (r - 1) \times 2$$ ​，继续循环操作；如果 r &lt; 1，则记下 0，令 ​ $$r=r\times 2$$，继续循环操作；如果 r = 1，则记下 1，计算结束。计算过程的伪代码如下：
+首先说一下， 十进制小数如何转换成二进制浮点数。十进制小数要想转换成二进制，要把小数部分乘以 2，乘积记做 r，如果 r > 1，则记下 1，令 $$r = (r - 1) \times 2$$ ​，继续循环操作；如果 r < 1，则记下 0，令 ​ $$r=r\times 2$$，继续循环操作；如果 r = 1，则记下 1，计算结束。计算过程的伪代码如下：
 
-```text
+```
  r = n * 2  // n 是十进制的小数
  s = "0."   // s 是最终结果，用字符串表示
  while r != 1:
@@ -98,10 +98,8 @@ _**参考资料：**_
 1. [**极客时间 -《深入浅出计算机组成原理》第 15 讲、第 16 讲**](https://time.geekbang.org/column/intro/170)
 2. [**https://www.h-schmidt.net/FloatConverter/IEEE754.html**](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 3. **《计算机组成与设计：硬件 / 软件接口》3.5.1 节**
-4. [**https://zh.wikipedia.org/wiki/IEEE\_754**](https://zh.wikipedia.org/wiki/IEEE_754)
-5. [https://en.wikipedia.org/wiki/Kahan\_summation\_algorithm](https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
+4. [**https://zh.wikipedia.org/wiki/IEEE\_754**](https://zh.wikipedia.org/wiki/IEEE\_754)
+5. [https://en.wikipedia.org/wiki/Kahan_summation_algorithm](https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
 
-![&#x5FAE;&#x4FE1;&#x626B;&#x4E00;&#x626B;&#x4E0A;&#x65B9;&#x4E8C;&#x7EF4;&#x7801;&#xFF0C;&#x5173;&#x6CE8;&#x6211;&#x7684;&#x516C;&#x4F17;&#x53F7;&#xFF1A;&#x738B;&#x867E;&#x7247;](../../.gitbook/assets/wei-xin-gong-zhong-hao-er-wei-ma-.jpg)
-
-
+![微信扫一扫上方二维码，关注我的公众号：王虾片](../../.gitbook/assets/微信公众号二维码.jpg)
 

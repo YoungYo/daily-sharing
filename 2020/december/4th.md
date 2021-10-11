@@ -11,4 +11,3 @@
 另外，附一张 ps aux 命令输出的内容中，各列的含义。
 
 ![](https://tva1.sinaimg.cn/large/008eGmZEly1gnbbh653qxj31fy0mmq7z.jpg)
-

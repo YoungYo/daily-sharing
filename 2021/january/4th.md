@@ -19,4 +19,3 @@ ls -lt --reverse
 **参考资料：**
 
 * 《The Linux Command Line Fifth Internet Edition》第 3 章 - Options and Arguments
-

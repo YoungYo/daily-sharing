@@ -22,7 +22,7 @@ s 前面可以指定行号，从而实现对文件局部的修改。比如「2,8
 
 最后的文件列表，也可以用通配符匹配，比如把「file1.txt file2.txt file3.txt」改成「 \*.txt」，就是替换所有以「.txt」结尾的文件中的内容。
 
-![3891609910671\_.pic\_hd](https://tva1.sinaimg.cn/large/008eGmZEly1gnbbh5q9yyj30ml0h6q6k.jpg)
+![3891609910671\_.pic_hd](https://tva1.sinaimg.cn/large/008eGmZEly1gnbbh5q9yyj30ml0h6q6k.jpg)
 
 **参考资料：**
 
@@ -34,11 +34,10 @@ s 前面可以指定行号，从而实现对文件局部的修改。比如「2,8
 
 所以为什么提高主频会使计算机运行速度变快，就是因为主频决定了计算机执行指令的频率，主频越大，单位时间内计算机执行的指令就越多，响应速度也就变快了。同样地，提高主频导致计算机功耗增大也是因为这个。
 
-![&#x632F;&#x8361;&#x5668;](https://tva1.sinaimg.cn/large/008eGmZEly1gnbbgpjrapj30c903xjra.jpg)
+![振荡器](https://tva1.sinaimg.cn/large/008eGmZEly1gnbbgpjrapj30c903xjra.jpg)
 
-![&#x632F;&#x8361;&#x5668;&#x8F93;&#x51FA;&#x5E8F;&#x5217;](https://tva1.sinaimg.cn/large/008eGmZEly1gncmijdevwj30ca03bq2t.jpg)
+![振荡器输出序列](https://tva1.sinaimg.cn/large/008eGmZEly1gncmijdevwj30ca03bq2t.jpg)
 
 **参考资料：**
 
 * 《编码：隐匿在计算机软硬件背后的语言》——第 14 章
-
